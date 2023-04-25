@@ -4,6 +4,16 @@ Created a ecommerce shopping website with following functionalities Product page
 
 checkout the application [here](https://react-ecommerce-flame-pi.vercel.app/).
 
+Technologies & Library used to build application
+
+1. React.js
+2. Redux
+3. Bootstrap
+4. MaterialUI
+5. Toastify
+6. React-router-dom
+7. Styled Components
+
 
 # Getting Started with Create React App
 
