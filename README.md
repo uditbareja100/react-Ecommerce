@@ -2,7 +2,7 @@ E-Commerce application
 
 Created a ecommerce shopping website with following functionalities Product page, checkout page, edit Products, Sort Products based on price and more 
 
-checkout the application [here],(https://react-ecommerce-flame-pi.vercel.app/)
+checkout the application [here](https://react-ecommerce-flame-pi.vercel.app/).
 
 
 # Getting Started with Create React App
